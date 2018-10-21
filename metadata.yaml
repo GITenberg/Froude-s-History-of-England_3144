@@ -1,5 +1,5 @@
 _repo: Froude-s-History-of-England_3144
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Great Britain -- History'
 - !lcsh 'Froude, James Anthony, 1818-1894. History of England'
+- GITenberg
 title: Froude's History of England
 url: http://www.gutenberg.org/ebooks/3144
